@@ -1,5 +1,5 @@
 {
-  "name": "lyuma.av3emulator",
+  "name": "org.tayou.lyuma.av3emulator",
   "author": {"name": "Lyuma et al.", "url": "https://github.com/v-sekai", "email": "xn.lyuma@gmail.com"},
   "license": "MIT",
   "documentationUrl": "https://github.com/lyuma/Av3Emulator",
